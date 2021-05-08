@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CrazyLogin</string>
+    <string name="title">Crazy Login Page</string>
+    <string name="instructions">To login successfully your phone must be:\n
+        # Placed on a table.\n
+        # GPS enabled\n
+        # Bluetooth enabled\n
+        # NFC enabled\n
+        # A Samsung smartphone\n
+        # Connected to WiFi\n
+        # Maximum Brightness\n
+        # Password is the present of your phone battery!
+    </string>
+</resources>
